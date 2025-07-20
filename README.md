@@ -20,6 +20,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/mysql.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  
   
 </div>
 
