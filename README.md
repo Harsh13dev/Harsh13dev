@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Harsh and I'm a CS Student from Pune</h2>
+<h2 align="left">Hi 👋! My name is Harsh Chauhan</h2>
+<h2>Python 🐍 | Data Science Enthusiast 🌟 | Data Analyst | AI | Machine Learning 💻 | SQL | Excel | PowerBI</h2>
 
 ###
 
